@@ -1,0 +1,23 @@
+Settings:
+  GiveItemJoin: true
+  Slot: 8
+  On_hide:
+    Item: PAPER
+    DisplayName: "Включить игроков"
+    Lore:
+      - ""
+      - "Врубает игроков"
+      - ""
+  Off_hide:
+    Item: GRASS
+    DisplayName: "Disable Players"
+    Lore:
+      - ""
+      - "&foff players"
+      - ""
+
+Message:
+  OnMsg: "&fYou have &#D0FB87included &fthe players"
+  OffMsg: "&fYou turned &coff &fthe players"
+  Cooldown: "&fCooldown %time% &fsec"
+  Sec: 3

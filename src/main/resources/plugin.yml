@@ -1,0 +1,10 @@
+name: pH
+version: '${project.version}'
+main: org.main.ph.PH
+api-version: '1.16'
+
+commands:
+  shelp:
+    description: "x3"
+  hideplayers:
+    description: "хз"

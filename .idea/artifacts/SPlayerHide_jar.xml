@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SPlayerHide:jar">
+    <output-path>$USER_HOME$/OneDrive/Рабочий стол/zakaz/plugins</output-path>
+    <root id="archive" name="SPlayerHide.jar">
+      <element id="module-output" name="SPlayerHide" />
+    </root>
+  </artifact>
+</component>
